@@ -2,8 +2,9 @@ test note
 ```
 Let's see.
 ```
-
-```{
+test
+```javascript
+{
     "glossary": {
         "title": "example glossary",
 		"GlossDiv": {
@@ -24,4 +25,5 @@ Let's see.
             }
         }
     }
-}```
+}
+```
