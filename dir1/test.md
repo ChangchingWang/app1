@@ -3,7 +3,7 @@ test note
 Let's see.
 ```
 test
-```javascript
+```json
 {
     "glossary": {
         "title": "example glossary",
